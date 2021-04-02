@@ -34,7 +34,7 @@ Gaussian Mixture Model class inference for CVAE 2 dimentional latent space VS Wh
 ![ci](https://github.com/patrick-schubert/emission-line-galaxy/blob/main/OurClusters/CVAE/%5BDim%202%20_%20STD%201e-13%5DOurScheme%20_%20GMM%20_Type_whan.png)
 
 ### Clustering Statistcs
-Bayesian Information Criteria and GAP Statistics for VAE with STD 1
+Bayesian Information Criteria and GAP Statistics for VAE with STD 1. The plots below ilustrate an aproach to estimate the ideal number of clusters for the latent space of each model.
 
 <table border="0">
 <tr>
