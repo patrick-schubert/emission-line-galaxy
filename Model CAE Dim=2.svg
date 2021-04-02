@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with RattlePy (https://github.com/manuelblancovalentin/rattlepy) -->
+<svg 	xmlns:dc="http://purl.org/dc/elements/1.1/"
+ 	xmlns:cc="http://creativecommons.org/ns#"
+ 	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ 	xmlns:svg="http://www.w3.org/2000/svg"
+ 	xmlns="http://www.w3.org/2000/svg"
+ 	xmlns:xlink="http://www.w3.org/1999/xlink"
+ 	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+ 	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+ 	viewBox="0.0 -98.64611103543558 420.0 2627.535367491097"
+ 	version="1.1"
+ 	id="Model CAE Dim=2"
+ 	inkscape:version="0.92.3 (2405546, 2018-03-11)"
+ 	sodipodi:docname="Model CAE Dim=2.svg">
+ 	<defs id="defs2"> 
+		<style type="text/css">@font-face { font-family: Ubuntu Regular; src: url("https://github.com/rvagg/nodei.co/blob/master/fonts/UbuntuMono-R.ttf");}		</style> 
+	</defs>
+	<defs id="defs3"><marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto" markerUnits="strokeWidth"> <path d="M0,1.5 L0,4.5 L3.5,3 z" fill="#000000" /> </marker>
+	</defs>
+	<g>
+		<rect x="78.0" y="-35.64611103543558" width="264" height="64" rx="24.0" ry="24.0" fill="#4d4d4d" fill-opacity="0.66" />
+		<rect x="85.0" y="-28.64611103543558" width="250" height="50" rx="20" ry="20" fill="#acacac" fill-opacity="0.89" />
+		<text x="210.0" y="-3.646111035435581" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Input: input_1</text>
+	</g>
+	<g>
+		<rect x="138.0" y="65.51313510673452" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="72.51313510673452" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="95.01313510673452" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="164.17238124890508" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="171.17238124890508" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="193.67238124890508" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="260.23433030415043" width="234" height="64" rx="24.0" ry="24.0" fill="#9c3030" fill-opacity="1.00" />
+		<rect x="100.0" y="267.23433030415043" width="220" height="50" rx="20" ry="20" fill="#d3605b" fill-opacity="1.00" />
+		<text x="210.0" y="292.23433030415043" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">MaxPooling1D</text>
+	</g>
+	<g>
+		<rect x="138.0" y="361.393576446321" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="368.393576446321" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="390.893576446321" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="460.0528225884913" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="467.0528225884913" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="489.5528225884913" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="556.2120687306619" width="234" height="64" rx="24.0" ry="24.0" fill="#9c3030" fill-opacity="1.00" />
+		<rect x="100.0" y="563.2120687306619" width="220" height="50" rx="20" ry="20" fill="#d3605b" fill-opacity="1.00" />
+		<text x="210.0" y="588.2120687306619" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">MaxPooling1D</text>
+	</g>
+	<g>
+		<rect x="138.0" y="657.3713148728327" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="664.3713148728327" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="686.8713148728327" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="756.0305610150031" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="763.0305610150031" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="785.5305610150031" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="852.1898071571736" width="234" height="64" rx="24.0" ry="24.0" fill="#9c3030" fill-opacity="1.00" />
+		<rect x="100.0" y="859.1898071571736" width="220" height="50" rx="20" ry="20" fill="#d3605b" fill-opacity="1.00" />
+		<text x="210.0" y="884.1898071571736" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">MaxPooling1D</text>
+	</g>
+	<g>
+		<rect x="130.5" y="953.349053299344" width="159" height="59" rx="24.0" ry="24.0" fill="#975dee" fill-opacity="1.00" />
+		<rect x="137.5" y="960.349053299344" width="145" height="45" rx="20" ry="20" fill="#c6afe9" fill-opacity="0.89" />
+		<text x="210.0" y="982.849053299344" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Flatten</text>
+	</g>
+	<g>
+		<rect x="145.5" y="1051.9110023545893" width="129" height="59" rx="24.0" ry="24.0" fill="#aa114e" fill-opacity="0.89" />
+		<rect x="152.5" y="1058.9110023545893" width="115" height="45" rx="20" ry="20" fill="#e47ca6" fill-opacity="0.89" />
+		<text x="210.0" y="1081.4110023545893" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Dense</text>
+	</g>
+	<g>
+		<rect x="145.5" y="1150.5702484967599" width="129" height="59" rx="24.0" ry="24.0" fill="#aa114e" fill-opacity="0.89" />
+		<rect x="152.5" y="1157.5702484967599" width="115" height="45" rx="20" ry="20" fill="#e47ca6" fill-opacity="0.89" />
+		<text x="210.0" y="1180.0702484967599" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Dense</text>
+	</g>
+	<g>
+		<rect x="145.5" y="1249.2294946389304" width="129" height="59" rx="24.0" ry="24.0" fill="#aa114e" fill-opacity="0.89" />
+		<rect x="152.5" y="1256.2294946389304" width="115" height="45" rx="20" ry="20" fill="#e47ca6" fill-opacity="0.89" />
+		<text x="210.0" y="1278.7294946389304" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Dense</text>
+	</g>
+	<g>
+		<rect x="130.5" y="1345.3887407811008" width="159" height="64" rx="24.0" ry="24.0" fill="#a47a4a" fill-opacity="1.00" />
+		<rect x="137.5" y="1352.3887407811008" width="145" height="50" rx="20" ry="20" fill="#cd8a63" fill-opacity="0.89" />
+		<text x="210.0" y="1377.3887407811008" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Reshape</text>
+	</g>
+	<g>
+		<rect x="138.0" y="1446.5577166319638" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="1453.5577166319638" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="1476.0577166319638" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="1545.1975033567494" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="1552.1975033567494" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="1574.6975033567494" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="1641.3470197902273" width="234" height="64" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="100.0" y="1648.3470197902273" width="220" height="50" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="1673.3470197902273" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">UpSampling1D</text>
+	</g>
+	<g>
+		<rect x="138.0" y="1742.4965362237053" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="1749.4965362237053" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="1771.9965362237053" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="1841.1460526571834" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="1848.1460526571834" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="1870.6460526571834" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="1937.2955690906613" width="234" height="64" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="100.0" y="1944.2955690906613" width="220" height="50" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="1969.2955690906613" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">UpSampling1D</text>
+	</g>
+	<g>
+		<rect x="138.0" y="2038.4450855241394" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="2045.4450855241394" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="2067.9450855241394" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="153.0" y="2137.094601957617" width="114" height="59" rx="24.0" ry="24.0" fill="#0fb40f" fill-opacity="0.66" />
+		<rect x="160.0" y="2144.094601957617" width="100" height="45" rx="20" ry="20" fill="#bcfebc" fill-opacity="1.00" />
+		<text x="210.0" y="2166.594601957617" text-anchor="middle" fill="#000000" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">ReLU</text>
+	</g>
+	<g>
+		<rect x="93.0" y="2233.244118391095" width="234" height="64" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="100.0" y="2240.244118391095" width="220" height="50" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="2265.244118391095" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">UpSampling1D</text>
+	</g>
+	<g>
+		<rect x="138.0" y="2334.389742941096" width="144" height="59" rx="24.0" ry="24.0" fill="#5151c0" fill-opacity="1.00" />
+		<rect x="145.0" y="2341.389742941096" width="130" height="45" rx="20" ry="20" fill="#2a7fff" fill-opacity="1.00" />
+		<text x="210.0" y="2363.889742941096" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Conv1D</text>
+	</g>
+	<g>
+		<rect x="63.0" y="2430.535367491097" width="294" height="64" rx="24.0" ry="24.0" fill="#4d4d4d" fill-opacity="0.66" />
+		<rect x="70.0" y="2437.535367491097" width="280" height="50" rx="20" ry="20" fill="#acacac" fill-opacity="0.89" />
+		<text x="210.0" y="2462.535367491097" text-anchor="middle" fill="#ffffff" fill-opacity="1.00" font-size="30px" font-family="Ubuntu Light" dy=".3em">Output: conv1d_7</text>
+	</g>	<g>
+	<path stroke-width="4px" d="M 210.0 28.35388896456442 C 210.0 46.93351203564947, 210.0 46.93351203564947, 210.0 52.513135106734524" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="46.93351203564947" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16, 1)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 124.51313510673452 C 210.0 144.3427581778198, 210.0 144.3427581778198, 210.0 151.17238124890508" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="144.3427581778198" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16, 8)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 223.17238124890508 C 210.0 241.70335577652776, 210.0 241.70335577652776, 210.0 247.23433030415043" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 324.23433030415043 C 210.0 342.8139533752357, 210.0 342.8139533752357, 210.0 348.393576446321" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="342.8139533752357" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(8, 8)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 420.393576446321 C 210.0 440.22319951740616, 210.0 440.22319951740616, 210.0 447.0528225884913" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="440.22319951740616" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(8, 16)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 519.0528225884914 C 210.0 537.6324456595767, 210.0 537.6324456595767, 210.0 543.2120687306619" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 620.2120687306619 C 210.0 638.7916918017473, 210.0 638.7916918017473, 210.0 644.3713148728327" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="638.7916918017473" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(4, 16)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 716.3713148728327 C 210.0 736.2009379439179, 210.0 736.2009379439179, 210.0 743.0305610150031" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="736.2009379439179" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(4, 32)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 815.0305610150031 C 210.0 833.6101840860883, 210.0 833.6101840860883, 210.0 839.1898071571736" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 916.1898071571736 C 210.0 934.7694302282588, 210.0 934.7694302282588, 210.0 940.349053299344" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="934.7694302282588" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(2, 32)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1012.349053299344 C 210.0 1032.1300278269666, 210.0 1032.1300278269666, 210.0 1038.9110023545893" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1032.1300278269666" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(64,)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1110.9110023545893 C 210.0 1130.7406254256746, 210.0 1130.7406254256746, 210.0 1137.5702484967599" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1130.7406254256746" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16,)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1209.5702484967599 C 210.0 1229.3998715678451, 210.0 1229.3998715678451, 210.0 1236.2294946389304" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1229.3998715678451" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(2,)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1308.2294946389304 C 210.0 1326.8091177100155, 210.0 1326.8091177100155, 210.0 1332.3887407811008" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1326.8091177100155" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16,)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1409.3887407811008 C 210.0 1427.9732287065322, 210.0 1427.9732287065322, 210.0 1433.5577166319638" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1427.9732287065322" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(2, 8)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1505.5577166319638 C 210.0 1525.3776099943566, 210.0 1525.3776099943566, 210.0 1532.1975033567494" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1525.3776099943566" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(2, 32)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1604.1975033567494 C 210.0 1622.7722615734883, 210.0 1622.7722615734883, 210.0 1628.3470197902273" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1705.3470197902273 C 210.0 1723.9217780069662, 210.0 1723.9217780069662, 210.0 1729.4965362237053" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1723.9217780069662" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(4, 32)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1801.4965362237053 C 210.0 1821.3212944404445, 210.0 1821.3212944404445, 210.0 1828.1460526571834" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="1821.3212944404445" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(4, 16)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 1900.1460526571834 C 210.0 1918.7208108739223, 210.0 1918.7208108739223, 210.0 1924.2955690906613" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 2001.2955690906613 C 210.0 2019.8703273074002, 210.0 2019.8703273074002, 210.0 2025.4450855241394" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="2019.8703273074002" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(8, 16)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 2097.4450855241394 C 210.0 2117.269843740878, 210.0 2117.269843740878, 210.0 2124.094601957617" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="2117.269843740878" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(8, 8)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 2196.094601957617 C 210.0 2214.6693601743564, 210.0 2214.6693601743564, 210.0 2220.244118391095" stroke="black" fill="none" marker-end="url(#arrow)" />
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 2297.244118391095 C 210.0 2315.8169306660957, 210.0 2315.8169306660957, 210.0 2321.389742941096" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="2315.8169306660957" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16, 8)</text>
+
+	</g>
+	<g>
+	<path stroke-width="4px" d="M 210.0 2393.389742941096 C 210.0 2411.9625552160965, 210.0 2411.9625552160965, 210.0 2417.535367491097" stroke="black" fill="none" marker-end="url(#arrow)" />
+	<text x="200.0" y="2411.9625552160965" text-anchor="end" alignment-baseline="bottom" fill="#000000" font-size="20px" font-family="Ubuntu Light" dy=".3em">(16, 1)</text>
+
+	</g>\m</svg>
