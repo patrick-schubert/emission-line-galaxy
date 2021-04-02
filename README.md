@@ -28,7 +28,10 @@ Visualization of trained AutoEncoder's bottleneck
 ![ls1](https://github.com/patrick-schubert/emission-line-galaxy/blob/main/Plots/CAE/%5BDim%202%5DLatent_Space-Type_whan.png)
 <img src="https://github.com/patrick-schubert/emission-line-galaxy/blob/main/Plots/CVAE/%5BDim%204%20_%20STD%200.1%5DLatent_Space-Type_whan.png" width = "786">
 
+### Clustering Inference
+Gaussian Mixture Model class inference for CVAE 2 dimentional latent space VS Whan Class Scheme
 
+![ci](https://github.com/patrick-schubert/emission-line-galaxy/blob/main/OurClusters/CVAE/%5BDim%202%20_%20STD%201e-13%5DOurScheme%20_%20GMM%20_Type_whan.png)
 
 ### Clustering Statistcs
 Bayesian Information Criteria and GAP Statistics for VAE with STD 1
